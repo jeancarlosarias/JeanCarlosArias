@@ -1,4 +1,4 @@
-# ¡Hola, soy Jean Carlos Arias Adames! 👋
+# ¡Hola, soy Jean Carlos Arias! 👋
 
 ## Construyamos algo increíble juntos 🚀
 
@@ -6,7 +6,7 @@ Soy un **Desarrollador BackEnd** con experiencia en **C#, .NET, MySQL, PostgreSQ
 
 ### 📬 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-carlos-arias-6565a7295/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariasyancar@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jean.carlos.arias.adames@gmail.com)
 
 ---
 
