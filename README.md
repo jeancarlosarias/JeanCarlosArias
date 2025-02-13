@@ -24,7 +24,7 @@ const jeanArias = {
 ---
 
 ### 📊 Estadísticas de GitHub
-![Estadísticas de GitHub de Jean](https://github-readme-stats.vercel.app/api?username=JeanCarlosArias&show_icons=true&theme=radical)
+![Estadísticas de GitHub de Jean](https://github-readme-stats.vercel.app/api?username=JeanCarlosArias&show_icons=true&theme=radical&cache_seconds=1800)
 
 ![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCarlosArias&layout=compact&theme=radical)
 
@@ -32,6 +32,7 @@ const jeanArias = {
 
 ### 🚀 Actualmente Trabajando En
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
