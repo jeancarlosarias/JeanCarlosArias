@@ -13,11 +13,11 @@ Soy un **Desarrollador BackEnd** con experiencia en **C#, .NET, MySQL, PostgreSQ
 ### 🛠️ Stack Tecnológico
 ```js
 const jeanArias = {
-   lenguajes: ["C#", "JavaScript", "Python", "PHP", "SQL", "MySQL", "PostgreSQL"],
+   lenguajes: ["C#", "JavaScript", "Python", "SQL", "MySQL", "PostgreSQL"],
    frameworks: [".NET", "Node.js", "Express"],
    herramientas: ["Sequelize", "Entity Framework", "Postman", "Stripe API"],
    experiencia: ["Desarrollo BackEnd", "Diseño de Bases de Datos", "Integraciones de API"],
-   aprendiendo_actualmente: ["NoSQL", "MongoDB", "GraphQL"]
+   aprendiendo_actualmente: ["NoSQL", "MongoDB", "GraphQL", "AWS"]
 };
 ```
 
