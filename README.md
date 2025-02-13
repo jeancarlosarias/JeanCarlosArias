@@ -2,7 +2,7 @@
 
 ## Construyamos algo increíble juntos 🚀
 
-Soy un **Desarrollador BackEnd** con experiencia en **C#, .NET, MySQL, PostgreSQL, SQL, PHP, Python y JavaScript**. Apasionado por el desarrollo de APIs, diseño de bases de datos y la creación de sistemas que marcan la diferencia. Actualmente trabajando en **integraciones de comercio electrónico** con las APIs de Amazon, eBay y Shopify. 
+Soy un **Desarrollador BackEnd** con experiencia en **C#, .NET, MySQL, PostgreSQL, SQL, Python y JavaScript**. Apasionado por el desarrollo de APIs, diseño de bases de datos y la creación de sistemas que marcan la diferencia. Actualmente trabajando en **integraciones de comercio electrónico** con las APIs de Amazon, eBay y Shopify. 
 
 ### 📬 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-carlos-arias-6565a7295/)
